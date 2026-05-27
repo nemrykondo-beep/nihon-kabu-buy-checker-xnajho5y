@@ -1,0 +1,11 @@
+{
+  "name": "日本株 買う前チェッカー",
+  "short_name": "買う前チェッカー",
+  "description": "日本株を買う前に感情買い・高値掴み・損切りライン未設定をセルフチェックするWebアプリです。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "lang": "ja",
+  "icons": []
+}
